@@ -1,4 +1,4 @@
-# handsign_detection
+# Handsign_detection
 
 
 ## Introduction
